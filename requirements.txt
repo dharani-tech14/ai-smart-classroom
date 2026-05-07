@@ -1,6 +1,5 @@
 streamlit
 SpeechRecognition
-pyttsx3
 pytesseract
 Pillow
 pandas
