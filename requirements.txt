@@ -8,3 +8,12 @@ nltk
 numpy
 sounddevice
 scipy
+SpeechRecognition
+pytesseract
+Pillow
+pandas
+numpy
+opencv-python-headless
+python-dotenv
+nltk
+gtts
